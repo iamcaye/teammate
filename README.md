@@ -6,7 +6,6 @@ This is a project to make an app for managing sport teams and other repetitives 
 	* Get assistance of the trainings
 	* Have notifications to remind trainings and matches
 	* EVERYTHING is local, no database yet
-	---
 
 ## v1 (Mobile & Tablet)
 	Second version of the app oriented to help with tasks related to matches
@@ -14,7 +13,6 @@ This is a project to make an app for managing sport teams and other repetitives 
 	* List sorting
 	* Match calendar view
 	* Online Database using Google Drive??
-	---
 
 ## v3 (Mobile & Tablet & PC)
 	Third and last version at the moment:
