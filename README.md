@@ -1,4 +1,4 @@
-#TeamMate
+# TeamMate
 ---
 This is a project to make an app for managing sport teams and other repetitives tasks.
 ##v0 (Mobile phone)
